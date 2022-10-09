@@ -1,0 +1,8 @@
+2022-10-09 18:07:50,687 : DEBUG : main : 33 : *** Landing page was accessed succefully ***
+2022-10-09 18:07:50,808 : DEBUG : main : 43 : *** Email input element was found successfully ***
+2022-10-09 18:07:50,931 : DEBUG : main : 46 : *** Password input element was found successfully ***
+2022-10-09 18:07:51,002 : DEBUG : main : 49 : *** Login was successfully ***
+2022-10-09 18:08:00,999 : DEBUG : main : 61 : *** Elements in the create post menu were found successfully ***
+2022-10-09 18:08:17,686 : DEBUG : main : 79 : *** Caption was added successfully ***
+2022-10-09 18:08:28,333 : DEBUG : main : 88 : *** Image or video was added successfully ***
+2022-10-09 18:08:38,666 : DEBUG : main : 92 : *** Post was created successfully ***
