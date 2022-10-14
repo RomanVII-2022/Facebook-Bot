@@ -1,8 +1,5 @@
-2022-10-12 13:14:07,229 : DEBUG : main : 32 : *** Landing page was accessed succefully ***
-2022-10-12 13:14:07,333 : DEBUG : login : 10 : *** Email was added successfully ***
-2022-10-12 13:14:07,439 : DEBUG : login : 13 : *** Password was added successfully ***
-2022-10-12 13:14:07,512 : DEBUG : login : 16 : *** You are logging into Facebook... ***
-2022-10-12 13:14:15,044 : DEBUG : login : 27 : You have successfully accessed Facebook home page
-2022-10-12 13:14:26,266 : DEBUG : grouppost : 44 : *** Post was liked successfully ***
-2022-10-12 13:14:26,779 : DEBUG : grouppost : 48 : *** Comment was added successfully ***
-2022-10-12 13:15:33,713 : DEBUG : grouppost : 51 : *** Something went wrong accessing the landing page ***
+2022-10-14 11:23:28,970 : DEBUG : main : 32 : *** Landing page was accessed succefully ***
+2022-10-14 11:23:29,122 : DEBUG : login : 10 : *** Email was added successfully ***
+2022-10-14 11:23:29,352 : DEBUG : login : 13 : *** Password was added successfully ***
+2022-10-14 11:23:29,530 : DEBUG : login : 16 : *** You are logging into Facebook... ***
+2022-10-14 11:23:47,887 : DEBUG : login : 29 : Something went wrong accessing Facebook home page

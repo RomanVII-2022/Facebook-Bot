@@ -63,6 +63,14 @@ class Facebook(Login, Page, Group):
         self.like_and_comment_group('Nice product')
 
 
+    def group_message_members(self):
+        self.get_landing_page()
+        self.login_page('vicmkinyua77@gmail.com', 'Vicky1998')
+        self.confirm_login()
+        self.message_members('Hello. Would you be interested in getting to know our products?')
+        
+
+
 
 
         
